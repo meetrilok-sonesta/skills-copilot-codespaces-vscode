@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "C#, Python, and GitHub Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
